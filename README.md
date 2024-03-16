@@ -34,4 +34,5 @@
 - UMA Frame Buffer Size > 16G
 - Security > Secure Boot > Disabled
 - Secure Boot Mode > Custom
+- Boot > Quiet Boot > Disabled
 - Boot > Fast Boot > Disabled
