@@ -14,6 +14,16 @@
 
 
 
+| Componente   | Nombre del Producto                              | 
+|--------------|--------------------------------------------------|
+| CPU          | AMD Ryzen 7 5800U                                |
+| Mini PC      | GenMachine Ren5000                               |
+| Memoria RAM  | 32GB DDR4 3200MHz                                |
+| Gráficos     | AMD Radeon RX 6900XT 16GB                        |
+| Disco Duro   | Western Digital 1TB WD Blue SN550 NVMe           | 
+| Red Ethernet | RealtekRTL8111                                   |
+| BT/WIFI      | Fenvi BCM94360NG                                 |
+
 
 ## Configuración del BIOS
 - Advanced > Trusted Computing > Security Device Support > Disable
