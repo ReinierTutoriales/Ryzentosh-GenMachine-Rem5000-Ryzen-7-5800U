@@ -1,4 +1,5 @@
 # Ryzentosh-GenMachine-Rem5000-Ryzen-7-5800U
+![macOS Ventura](IMG/1.png)
 
 ## 🔗 LINKS ReinierTutoriales:
 
