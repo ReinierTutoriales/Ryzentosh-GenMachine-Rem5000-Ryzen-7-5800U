@@ -12,6 +12,10 @@
 
 </p>
 
+
+
+
+## Configuración del BIOS
 - Advanced > Trusted Computing > Security Device Support > Disable
 - AMD CBS > NBIO Common Options > IOMMU > Disabled
 - GFX Configuration > IGPU Configuration > UMA Specified
