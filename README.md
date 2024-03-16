@@ -14,6 +14,8 @@
 
 
 
+## Especificaciones
+
 | Componente   | Nombre del Producto                              | 
 |--------------|--------------------------------------------------|
 | CPU          | AMD Ryzen 7 5800U                                |
