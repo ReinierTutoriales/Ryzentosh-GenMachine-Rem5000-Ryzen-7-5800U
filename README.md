@@ -19,6 +19,13 @@
 
 <hr>
 
+# Rendimiento 
+## Geekbench 6 macOS 13 Ventura
+
+![Geekbench 6](IMG/2.png)
+![Geekbench 6](IMG/3.png)
+
+
 # Especificaciones
 
 | Componente   | Nombre del Producto                              | 
