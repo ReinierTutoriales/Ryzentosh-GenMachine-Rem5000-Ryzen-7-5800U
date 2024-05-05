@@ -2,7 +2,7 @@
 
 ![GenMachine Rem5000](IMG/4.png)
 
-![macOS Ventura]()
+
 [![Static Badge](https://img.shields.io/badge/macOS-Ventura-blue)](https://www.reiniertutoriales.com/isos-raw-macos/)
 [![Static Badge](https://img.shields.io/badge/OpenCore-1.0.0-green)](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-58f57a3/OpenCore-1.0.0-RELEASE.zip)
 
