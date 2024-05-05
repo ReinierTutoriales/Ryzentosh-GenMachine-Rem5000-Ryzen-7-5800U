@@ -1,4 +1,4 @@
-# Bienvenido al Repositorio de Ryzentosh GenMachine Rem5000 Ryzen 7 5800U Compatible con macOS BigSur - Monterrey - Ventura - Sonoma
+# Repositorio de Ryzentosh GenMachine Rem5000 Ryzen 7 5800U Compatible con macOS BigSur - Monterrey - Ventura - Sonoma
 ![macOS Ventura](IMG/1.png)
 [![Static Badge](https://img.shields.io/badge/macOS-Ventura-blue)](https://www.reiniertutoriales.com/isos-raw-macos/)
 [![Static Badge](https://img.shields.io/badge/OpenCore-1.0.0-green)](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-58f57a3/OpenCore-1.0.0-RELEASE.zip)
