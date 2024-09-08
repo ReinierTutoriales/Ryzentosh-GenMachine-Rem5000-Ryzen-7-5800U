@@ -1,4 +1,5 @@
-# Repositorio de Ryzentosh GenMachine Rem5000 Ryzen 7 5800U Compatible con macOS (BigSur - Monterrey - Ventura - Sonoma - Sequoia)
+# Repositorio de Ryzentosh GenMachine Rem5000 Ryzen 7 5800U 
+compatible con macOS (BigSur - Monterrey - Ventura - Sonoma - Sequoia)
 
 ![GenMachine Rem5000](IMG/4.png)
 
